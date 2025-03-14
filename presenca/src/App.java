@@ -3,5 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         // Programe uma nova linha abaixo que mostre o seu nome completo
         //Nátaly de Souza Becker
+        System.out.println("Nátaly de Souza Becker");
     }
 }
