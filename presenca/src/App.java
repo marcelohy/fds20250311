@@ -5,5 +5,6 @@ public class App {
         System.out.println("Gustavo Conte Rodrigues está presente!");
         System.out.println("Lucas Lorenzi");
         System.out.println("Henrique Corrales Marchiori");
+        //Bruna Porto
     }
 }
