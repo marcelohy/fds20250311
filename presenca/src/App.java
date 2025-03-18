@@ -3,5 +3,7 @@ public class App {
         System.out.println("Hello, World!");
         // Programe uma nova linha abaixo que mostre o seu nome completo
         System.out.println("Gustavo Conte Rodrigues está presente!");
+        System.out.println("Lucas Lorenzi");
+        System.out.println("Henrique Corrales Marchiori");
     }
 }
